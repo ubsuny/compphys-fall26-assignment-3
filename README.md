@@ -105,7 +105,7 @@ $$
 
 Let's use a few simplifications:
 
-1. The spins are placed on the x-axis, with a constant spacing $a$.
+1. The spins are placed on the x-axis, with a constant spacing $a=1$.
 2. The spins point either up or down (say along the $z$ axis): $\vec{m}_i = s_i m \hat{z}$, where $s_i=\pm1$.
     - So, $\vec{m}_i \cdot \vec{m}_j = s_i s_j m^2$, and $\vec{m}_i \cdot \hat{r}_{ij}=0$, since the spins are perpendicular to the spatial separation vector. 
 3. With appropriate choice of units, we can eliminate all of the constants from the equation (i.e., set $a=1$ and $\epsilon=(\mu_0 m^2)/(4\pi a^3)=1$). 
