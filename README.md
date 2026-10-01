@@ -113,7 +113,7 @@ Let's use a few simplifications:
 With these simplifications, the potential energy is much simpler:
 
 $$
-U = \sum_{0\leq i < j \leq N-1} \frac{s_i s_j}{(|x_i - x_j|)^3}. 
+U = \sum_{0\leq i < j \leq N-1} \frac{s_i s_j}{(|i - j|)^3}. 
 $$
 
 The framework for this problem has already been created in `problem3/problem3.ipynb` and accompanying files. Please do your work in this notebook.
